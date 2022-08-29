@@ -19,6 +19,10 @@ pip install dominate
 ```
 pip install opencv-python
 ```
+*Install pyTorch 
+```
+pip3 install torchvision
+```
 * Clone this repo:
 ```
 git clone https://github.com/facebookresearch/FashionPlus.git
