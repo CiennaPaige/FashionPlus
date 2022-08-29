@@ -19,7 +19,7 @@ pip install dominate
 ```
 pip install opencv-python
 ```
-*Install pyTorch 
+* Install pyTorch 
 ```
 pip3 install torchvision
 ```
